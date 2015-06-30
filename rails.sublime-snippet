@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[<%
+  $SELECTION
+%>]]></content>
+  <!-- Optional: Tab trigger to activate the snippet -->
+  <tabTrigger>%%</tabTrigger>
+  <!-- Optional: Description to show in the menu -->
+  <description>Rails &lt;%</description>
+</snippet>

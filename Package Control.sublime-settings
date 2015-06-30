@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"CakePHP (Native)",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Gitignore",
+		"Indent XML",
+		"Ionic Framework Snippets",
+		"jQuery",
+		"OmniMarkupPreviewer",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"Terminal",
+		"Terminality",
+		"Theme - Spacegray",
+		"TodoReview"
+	]
+}
