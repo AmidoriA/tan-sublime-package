@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+DatabaseHandler.log(self.entity['entity_id'], '${1:description}', process_id=self.process_id, is_show=${2:False}, status='${3:ok}')
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>log</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.python</scope>
+</snippet>
